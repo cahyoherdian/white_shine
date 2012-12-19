@@ -77,7 +77,6 @@
 						?>						
 						</div>
 					</div>
-					<div class="top-liner"></div>
 				</div>
 				<div class="featured-spacer">
 					<div class="other-ribbon"></div>

@@ -592,14 +592,14 @@ li.content-column {
     width: 250px;
     z-index: 1;
 }
-.top-liner{
+/*.top-liner{
     background: url("images/liner3.png") repeat-x scroll center center transparent;
     height: 21px;
     left: -2px;
     padding-top: 40px;
     position: absolute;
     width: 650px;
-}
+}*/
 #featured-bottom{
     background: none repeat scroll 0 0 #D5D5D5;
     border: 1px solid #A7A7A7;
